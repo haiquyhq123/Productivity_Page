@@ -1,0 +1,10 @@
+.digital-container{
+    width: 100vw;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 5px;
+    border-radius: 5px;
+
+}

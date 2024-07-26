@@ -1,0 +1,55 @@
+.about{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto;
+}
+.card-quy{
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    padding: 5px;
+    text-align: center;
+    border: 2px solid hsla(0, 0%, 0%, 0.7);
+    border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card-quy img{
+    border: 2px solid black;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.card-quy img:hover{
+    cursor: pointer;
+}
+.j{
+    font-size: 12px;
+    font-style: italic;
+    
+}
+.Cpurpose{
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+}
+.instruction{
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    grid-column: 1/3;
+    height: 50vh ;
+}
+.g{
+    padding-top: 10px;
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+.n{
+    padding: 10px;
+}
+p{
+    padding: 2px;
+}
