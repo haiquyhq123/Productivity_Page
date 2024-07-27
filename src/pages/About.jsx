@@ -9,6 +9,7 @@ function About() {
           <h2>Purpose of creating this website</h2>
           <p className='n'>1. I create it for practicing front-end skills</p>
           <p className='n'>2. I'm using React JS library to create this website</p>
+          <p className='n'>3. <a href="https://github.com/haiquyhq123/Productivity_Page">Source code</a>(click to Source code to visit my github page)</p>
 
         </div>
         <div class="instruction">

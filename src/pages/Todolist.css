@@ -50,14 +50,14 @@ input[type="number"]{
    
 }
 .priority{
-    width: 3vw;
+    width: 4.5vw;
     border: 2px solid black;
     border-radius: 5px;
     padding: 5px;
     
 }
 .taskname{
-    width: 60vw;
+    width: 45vw;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: italic;
     border: 2px solid black;
@@ -65,17 +65,18 @@ input[type="number"]{
     padding: 5px;
 }
 .cyclenumber{
-    width: 2.5vw;
+    width: 4.5vw;
     border: 2px solid black;
     border-radius: 5px;
     padding: 5px;
+
 }
 .delete{
-    margin-left: 5px;
     width: 10vw;
     border-radius: 5px;
-
+    margin-left: 15px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
 }
 .up{
     width: 10vw;
